@@ -11,4 +11,4 @@ if uploaded_file is not None:
 
     st.bar_chart(data= df, x= "Tipo", y= "Amount")
 
-#test
+st.run()
